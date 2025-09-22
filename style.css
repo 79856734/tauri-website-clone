@@ -486,3 +486,7 @@ a {
     height: 124px;
 }
 }
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
